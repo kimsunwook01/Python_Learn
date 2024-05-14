@@ -8,6 +8,4 @@ print("반가워요"*10)
 print(100+200)
 
 print("hello")
-print("hello")
-print("hello")
-print("hello")
+aa = 100
