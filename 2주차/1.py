@@ -9,3 +9,6 @@ print(100+200)
 
 print("hello")
 aa = 100
+print("hello")
+print("hello")
+print("hello")
